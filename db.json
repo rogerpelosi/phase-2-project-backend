@@ -4,11 +4,11 @@
       "id": 1,
       "name": "Charlie",
       "animal": "dog",
-      "image": "https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/27134650/Chihuahua-standing-in-three-quarter-view.jpg",
+      "image": "https://www.rover.com/blog/wp-content/uploads/2019/09/Chihuahua-min-1.jpg",
       "age": 2,
       "size": "small",
       "sex": "male",
-      "description": ""
+      "description": "Fun, loving, and always ready to yip!"
     },
     {
       "id": 2,
@@ -18,7 +18,7 @@
       "age": 1,
       "size": "medium",
       "sex": "male",
-      "description": ""
+      "description": "Very loyal pup ready to find a new home!"
     },
     {
       "id": 3,
@@ -28,7 +28,7 @@
       "age": 4,
       "size": "small",
       "sex": "female",
-      "description": ""
+      "description": "Silly gal with an itch to scratch!"
     },
     {
       "id": 4,
@@ -38,7 +38,7 @@
       "age": 5,
       "size": "large",
       "sex": "female",
-      "description": ""
+      "description": "Skye is a sweetheart, often misunderstood, but still a sweetheart.."
     },
     {
       "id": 5,
@@ -48,7 +48,7 @@
       "age": 2,
       "size": "small",
       "sex": "female",
-      "description": ""
+      "description": "Winnie is a wild one, always ready for an adventure."
     },
     {
       "id": 6,
@@ -58,7 +58,7 @@
       "age": 7,
       "size": "small",
       "sex": "male",
-      "description": ""
+      "description": "Jeff loves to lounge around and eat sardines as a treat."
     },
     {
       "id": 7,
@@ -68,7 +68,7 @@
       "age": 1,
       "size": "small",
       "sex": "male",
-      "description": ""
+      "description": "Thumper is a quite dude and loves to cuddle."
     },
     {
       "id": 8,
@@ -78,7 +78,7 @@
       "age": 5,
       "size": "large",
       "sex": "female",
-      "description": ""
+      "description": "Bella is well-behaved and knows how to play dead."
     },
     {
       "id": 9,
@@ -88,7 +88,7 @@
       "age": 3,
       "size": "medium",
       "sex": "male",
-      "description": ""
+      "description": "Leo is in fact a leo, his birthday on August 1st!"
     },
     {
       "id": 10,
@@ -98,17 +98,79 @@
       "age": 2,
       "size": "small",
       "sex": "male",
-      "description": ""
+      "description": "Bugs is a one-of-a-kind ham, a true character."
     },
     {
       "name": "Duane Reade",
       "age": "3",
-      "animal": "Fish",
-      "image": "data:image/jpeg;base64,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",
+      "animal": "fish",
+      "image": "https://5.imimg.com/data5/QI/DJ/MY-49635120/gold-fish-500x500.jpg",
       "size": "small",
       "sex": "female",
       "description": "Funky Fish",
       "id": 18
+    },
+    {
+      "name": "Celia",
+      "age": "6 months",
+      "animal": "pig",
+      "image": "https://www.treehugger.com/thmb/O_y40SUn-UexkTvaE_hkvQdxZwU=/3863x2578/filters:fill(auto,1)/cute-baby-piglet-950156282-5aefa65fc673350037da8f87.jpg",
+      "size": "medium",
+      "sex": "female",
+      "description": "Vivacious and stunning, Miss Celia is potty-trained and looking for a place to set down her roots.",
+      "id": 19
+    },
+    {
+      "name": "Roger",
+      "age": "3",
+      "animal": "Fish",
+      "image": "https://content.hy-vee.com/remote.axd/3f4c2184e060ce99111b-f8c0985c8cb63a71df5cb7fd729edcab.ssl.cf2.rackcdn.com/media/15684/ramenbowls.jpg?v=1&mode=crop&width=800&height=640&upscale=false",
+      "size": "small",
+      "sex": "male",
+      "description": "You Did it!!!",
+      "id": 20
+    }
+  ],
+  "mypets": [
+    {
+      "id": 1,
+      "name": "Charlie",
+      "animal": "dog",
+      "image": "https://www.rover.com/blog/wp-content/uploads/2019/09/Chihuahua-min-1.jpg",
+      "age": 2,
+      "size": "small",
+      "sex": "male",
+      "description": "Fun, loving, and always ready to yip!"
+    },
+    {
+      "id": 8,
+      "name": "Bella",
+      "animal": "dog",
+      "image": "https://vetstreet.brightspotcdn.com/dims4/default/a0c30bb/2147483647/crop/0x0%2B0%2B0/resize/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Fff%2F3691e0a75511e0a0d50050568d634f%2Ffile%2FGreat-Pyrenees-3-645mk062411.jpg",
+      "age": 5,
+      "size": "large",
+      "sex": "female",
+      "description": "Bella is well-behaved and knows how to play dead."
+    },
+    {
+      "id": 2,
+      "name": "Buddy",
+      "animal": "dog",
+      "image": "https://www.newportharborvets.com/sites/default/files/styles/large/public/golden-retriever-dog-breed-info.jpg?itok=LraUUWYV",
+      "age": 1,
+      "size": "medium",
+      "sex": "male",
+      "description": "Very loyal pup ready to find a new home!"
+    },
+    {
+      "id": 5,
+      "name": "Winnie",
+      "animal": "bird",
+      "image": "https://images.unsplash.com/photo-1594524952992-0cddcede63dd?ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8Y29ja2F0b298ZW58MHx8MHx8&ixlib=rb-1.2.1&w=1000&q=80",
+      "age": 2,
+      "size": "small",
+      "sex": "female",
+      "description": "Winnie is a wild one, always ready for an adventure."
     }
   ]
 }
